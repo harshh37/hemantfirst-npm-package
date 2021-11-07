@@ -12,5 +12,6 @@ function test(){
 
 module.exports = {
   helloWorld,
-  sum
+  sum,
+  test
 }
