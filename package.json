@@ -1,0 +1,15 @@
+{
+  "name": "hemantfirst-npm-package",
+  "version": "1.1.0",
+  "description": " A testing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uxp-linter": "^1.0.12"
+  }
+}
