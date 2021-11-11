@@ -1,6 +1,6 @@
 {
   "name": "hemantfirst-npm-package",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": " A testing package",
   "main": "index.js",
   "scripts": {
