@@ -9,7 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "uxp-linter": "^1.0.12"
-  }
+  "dependencies": {}
 }

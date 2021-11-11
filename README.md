@@ -1,3 +1,3 @@
-# A testing tutorial created by Hemant
+# A testing package
 
 Only for test purpose
